@@ -1,0 +1,3 @@
+db:migrate
+generate_secret_token
+redmine:load_default_data
